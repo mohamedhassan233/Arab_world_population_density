@@ -1,5 +1,18 @@
-
-
-
-
-.
+Egypt population density is:  97.43
+Algeria population density is:  42.44
+Sudan population density is:  40.78
+Iraq population density is:  39.24
+Morocco population density is:  34.72
+Saudi Arabia population density is:  33.33
+Yemen population density is:  28.84
+Syria population density is:  18.24
+Tunisia population density is:  11.42
+Jordan population density is:  10.23
+United Arab Emirates population density is:  9.52
+Libya population density is:  6.46
+Lebanon population density is:  6.08
+Palestine population density is:  4.77
+Oman population density is:  4.64
+Kuwait population density is:  4.22
+Qatar population density is:  2.56
+Bahrain population density is:  1.49
