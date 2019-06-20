@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <h1>Read two country data files pop.txt and area.txt 
+<h1>Read two country data files <u>pop.txt</u> and <u>area.txt</u> 
 	Both
 files contain the same countries in the same order.
 Write a file that contains country
